@@ -9,9 +9,9 @@ ENV PHP_ERRORS_STDERR 1
 ENV RUN_SCRIPTS 1
 ENV REAL_IP_HEADER 1
 
-# Laravel config
-# ENV APP_ENV production
-# ENV APP_DEBUG false
+Laravel config
+ENV APP_ENV production
+ENV APP_DEBUG false
 # ENV DB_CONNECTION pgsql
 # ENV DB_HOST dpg-ckfr36uct0pc73dfg5n0-a
 # ENV DB_PORT 5432
